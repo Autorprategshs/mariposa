@@ -1,7 +1,4 @@
 {
-  "login": "https://mfwkweb-api.clarovideo.net/services/user/v2/ott/login",
-  "isloggedin": "https://mfwkweb-api.clarovideo.net/services/user/v4/ott/isloggedin",
-  "linealchannels": "https://mfwkweb-api.clarovideo.net/services/payway/v1/linealchannels",
   "getmedia": "https://mfwkweb-api.clarovideo.net/services/player/v1/getmedia",
   "getcertificate": "https://widevine-claroaup-vod.clarovideo.net/v2/licenser/getcertificate",
   "getlicense": "https://widevine-claroaup-vod.clarovideo.net/v2/licenser/getlicense"
