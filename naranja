@@ -1,0 +1,2866 @@
+{
+    "🇦🇷 Noticias": [
+        {
+            "groupid": "1162248",
+            "nombre": "CANAL TN",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/36/36WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/36/36WCUADRADO.jpg"
+        },
+        {
+            "groupid": "929688",
+            "nombre": "CANAL TN",
+            "logo": "https://clarovideocdn3.clarovideo.net/PELICULAS/CANALTN/EXPORTACION_WEB/SS/CANALTNWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/PELICULAS/CANALTN/EXPORTACION_WEB/SS/CANALTNWCUADRADO.jpg"
+        },
+        {
+            "groupid": "766225",
+            "nombre": "A24",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/343/343WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/343/343WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785374",
+            "nombre": "A24",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/343/343WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/343/343WCUADRADO.jpg"
+        },
+        {
+            "groupid": "796918",
+            "nombre": "AMÉRICA TUCUMÁN",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5824/5824WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5824/5824WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764123",
+            "nombre": "C5N HD",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/709/709WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/709/709WCUADRADO.jpg"
+        },
+        {
+            "groupid": "783887",
+            "nombre": "C5N HD",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/709/709WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/709/709WCUADRADO.jpg"
+        },
+        {
+            "groupid": "783886",
+            "nombre": "CRÓNICA TV HD",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/192/192WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/192/192WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764152",
+            "nombre": "CRÓNICA TV HD",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/192/192WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/192/192WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785211",
+            "nombre": "LA NACIÓN +",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764182",
+            "nombre": "LA NACIÓN +",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644WCUADRADO.jpg"
+        },
+        {
+            "groupid": "928662",
+            "nombre": "CANAL IP HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6158/6158WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6158/6158WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1109429",
+            "nombre": "CANAL 26",
+            "logo": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/3/3WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/EPG/REPORTTV/LOGOS/3/3WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1109499",
+            "nombre": "CANAL 26",
+            "logo": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/3/3WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/EPG/REPORTTV/LOGOS/3/3WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1127371",
+            "nombre": "CANAL E",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8196/8196WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8196/8196WCUADRADO.jpg"
+        },
+        {
+            "groupid": "817127",
+            "nombre": "DIPUTADOS TV ARG",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4320/4320WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4320/4320WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888159",
+            "nombre": "DIPUTADOS TV ARG",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4320/4320WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4320/4320WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791241",
+            "nombre": "TNT HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4230/4230WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4230/4230WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762262",
+            "nombre": "TNT HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4230/4230WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4230/4230WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762237",
+            "nombre": "TNT SERIES HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3421/3421WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3421/3421WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791281",
+            "nombre": "TNT SERIES HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3421/3421WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3421/3421WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791373",
+            "nombre": "CNN EN ESPAÑOL",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/62/62WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/62/62WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762260",
+            "nombre": "CNN EN ESPAÑOL",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/62/62WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/62/62WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762209",
+            "nombre": "CNN INTERNACIONAL",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/13/13WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/13/13WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791393",
+            "nombre": "CNN INTERNACIONAL",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/13/13WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/13/13WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791411",
+            "nombre": "ALJAZEERA HD",
+            "logo": "https://clarovideocdn1.clarovideo.net/PELICULAS/ALJAZEERAHD/EXPORTACION_WEB/SS/ALJAZEERAHDWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/PELICULAS/ALJAZEERAHD/EXPORTACION_WEB/SS/ALJAZEERAHDWCUADRADO.jpg"
+        },
+        {
+            "groupid": "762216",
+            "nombre": "FRANCE24 HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4229/4229WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4229/4229WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791374",
+            "nombre": "FRANCE24 HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4229/4229WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4229/4229WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1390361",
+            "nombre": "RUSSIAN TODAY",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1502/1502WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1502/1502WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791356",
+            "nombre": "TV5 MONDE",
+            "logo": "https://clarovideocdn5.clarovideo.net/PELICULAS/TV5MONDE/EXPORTACION_WEB/SS/TV5MONDEWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/PELICULAS/TV5MONDE/EXPORTACION_WEB/SS/TV5MONDEWCUADRADO.jpg"
+        },
+        {
+            "groupid": "791375",
+            "nombre": "DW TV",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/16/16WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/16/16WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762217",
+            "nombre": "DW TV",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/16/16WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/16/16WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1321407",
+            "nombre": "D NEWS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/7673/7673WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/7673/7673WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1114027",
+            "nombre": "24H",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/281/281WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/281/281WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791431",
+            "nombre": "24H",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/281/281WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/281/281WCUADRADO.jpg"
+        },
+        {
+            "groupid": "772139",
+            "nombre": "24H",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/281/281WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/281/281WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1388787",
+            "nombre": "CGTN",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2142/2142WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2142/2142WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762258",
+            "nombre": "EWTN",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/64/64WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/64/64WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791364",
+            "nombre": "EWTN",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/64/64WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/64/64WCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Noticias": [
+        {
+            "groupid": "1327134",
+            "nombre": "DNEWS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/7673/7673WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/7673/7673WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937445",
+            "nombre": "CNN EN ESPAÑOL",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/62/62WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/62/62WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953241",
+            "nombre": "DW TV",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/16/16WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/16/16WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1337942",
+            "nombre": "CGTN",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2142/2142WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2142/2142WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937442",
+            "nombre": "EWTN",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/64/64WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/64/64WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953256",
+            "nombre": "INTI HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2920/2920WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2920/2920WCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Deportes": [
+        {
+            "groupid": "1158057",
+            "nombre": "CLARO SPORTS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962WCUADRADO.jpg"
+        },
+        {
+            "groupid": "775332",
+            "nombre": "CLARO SPORTS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791274",
+            "nombre": "CLARO SPORTS HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1158869",
+            "nombre": "CLARO SPORTS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962WCUADRADO.jpg"
+        },
+        {
+            "groupid": "930289",
+            "nombre": "CLARO SPORTS OLÍMPICOS 2",
+            "logo": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS2/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS2WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn1.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS2/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS2WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1155860",
+            "nombre": "CLARO SPORTS OLÍMPICOS 2",
+            "logo": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS2/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS2WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn1.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS2/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS2WCUADRADO.jpg"
+        },
+        {
+            "groupid": "930306",
+            "nombre": "CLARO SPORTS OLÍMPICOS 3",
+            "logo": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS3/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS3WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn1.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS3/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS3WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1155861",
+            "nombre": "CLARO SPORTS OLÍMPICOS 3",
+            "logo": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS3/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS3WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn1.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS3/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS3WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1156626",
+            "nombre": "CLARO SPORTS OLÍMPICOS 4",
+            "logo": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS4/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS4WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn1.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS4/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS4WCUADRADO.jpg"
+        },
+        {
+            "groupid": "930290",
+            "nombre": "CLARO SPORTS OLÍMPICOS 4",
+            "logo": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS4/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS4WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn1.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS4/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS4WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1095224",
+            "nombre": "TYC SPORTS 4K",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9254/9254WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9254/9254WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1151385",
+            "nombre": "TYC SPORTS",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/40/40WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/40/40WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1039284",
+            "nombre": "TYC SPORTS",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/40/40WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/40/40WCUADRADO.jpg"
+        },
+        {
+            "groupid": "783813",
+            "nombre": "ESPN NEW",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/229/229WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/229/229WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764511",
+            "nombre": "ESPN NEW",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/229/229WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/229/229WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888142",
+            "nombre": "ESPN 2 NEW",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/18/18WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/18/18WCUADRADO.jpg"
+        },
+        {
+            "groupid": "784681",
+            "nombre": "ESPN 2 NEW",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/18/18WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/18/18WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888067",
+            "nombre": "ESPN 3",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4971/4971WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4971/4971WCUADRADO.jpg"
+        },
+        {
+            "groupid": "784644",
+            "nombre": "ESPN 3",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4971/4971WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4971/4971WCUADRADO.jpg"
+        },
+        {
+            "groupid": "784577",
+            "nombre": "ESPN 4",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3224/3224WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3224/3224WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888068",
+            "nombre": "ESPN 4",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3224/3224WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3224/3224WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888178",
+            "nombre": "FOX SPORTS NEW",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/221/221WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/221/221WCUADRADO.jpg"
+        },
+        {
+            "groupid": "783885",
+            "nombre": "FOX SPORTS NEW",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/221/221WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/221/221WCUADRADO.jpg"
+        },
+        {
+            "groupid": "784645",
+            "nombre": "FOX SPORTS 2 NEW",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/978/978WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/978/978WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764186",
+            "nombre": "FOX SPORTS 2 NEW",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/978/978WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/978/978WCUADRADO.jpg"
+        },
+        {
+            "groupid": "784699",
+            "nombre": "FOX SPORTS 3 NEW",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/362/362WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/362/362WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764188",
+            "nombre": "FOX SPORTS 3 NEW",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/362/362WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/362/362WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785249",
+            "nombre": "DeporTV HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2198/2198WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2198/2198WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764122",
+            "nombre": "DeporTV HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2198/2198WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2198/2198WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785289",
+            "nombre": "EL GARAGE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4315/4315WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4315/4315WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764181",
+            "nombre": "EL GARAGE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4315/4315WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4315/4315WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791234",
+            "nombre": "PX TV HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2063/2063WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2063/2063WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766136",
+            "nombre": "PX TV HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2063/2063WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2063/2063WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1158392",
+            "nombre": "TYC SPORTS 2",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/153/153WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/153/153WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764115",
+            "nombre": "ESPN PREMIUM",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888160",
+            "nombre": "ESPN PREMIUM",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888143",
+            "nombre": "TNT SPORTS ARGENTINA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3950/3950WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3950/3950WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766165",
+            "nombre": "TNT SPORTS ARGENTINA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3950/3950WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3950/3950WCUADRADO.jpg"
+        },
+        {
+            "groupid": "784858",
+            "nombre": "CLARO SPORTS",
+            "logo": "https://clarovideocdn1.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTSWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTSWCUADRADO.jpg"
+        },
+        {
+            "groupid": "816112",
+            "nombre": "Claro Sports Colombia",
+            "logo": "https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTSCOLOMBIA/EXPORTACION_WEB/SS/CLAROSPORTSCOLOMBIAWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/PELICULAS/CLAROSPORTSCOLOMBIA/EXPORTACION_WEB/SS/CLAROSPORTSCOLOMBIAWCUADRADO.jpg"
+        },
+        {
+            "groupid": "816058",
+            "nombre": "Claro Sports LATAM",
+            "logo": "https://clarovideocdn1.clarovideo.net/PELICULAS/CLAROSPORTSLATAM/EXPORTACION_WEB/SS/CLAROSPORTSLATAMWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/PELICULAS/CLAROSPORTSLATAM/EXPORTACION_WEB/SS/CLAROSPORTSLATAMWCUADRADO.jpg"
+        },
+        {
+            "groupid": "816028",
+            "nombre": "WINSPORTS HD",
+            "logo": "https://clarovideocdn1.clarovideo.net/PELICULAS/WINSPORTSHD/EXPORTACION_WEB/SS/WINSPORTSHDWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/PELICULAS/WINSPORTSHD/EXPORTACION_WEB/SS/WINSPORTSHDWCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Deportes": [
+        {
+            "groupid": "1158867",
+            "nombre": "CLARO SPORTS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8963/8963WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8963/8963WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1155862",
+            "nombre": "CLARO SPORTS OLÍMPICOS 3",
+            "logo": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS3/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS3WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn1.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS3/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS3WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1155863",
+            "nombre": "CLARO SPORTS OLÍMPICOS 4",
+            "logo": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS4/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS4WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn1.clarovideo.net/CVPERU/PELICULAS/CLAROSPORTSOLMPICOS4/EXPORTACION_WEB/SS/CLAROSPORTSOLMPICOS4WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1337095",
+            "nombre": "TyC SPORTS",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/311/311WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/311/311WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950857",
+            "nombre": "ESPN NEW",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953243",
+            "nombre": "ESPN 2 NEW",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952449",
+            "nombre": "ESPN 3 HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952450",
+            "nombre": "ESPN 5",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3180/3180WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3180/3180WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953242",
+            "nombre": "ESPN 4",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953254",
+            "nombre": "ESPN 7",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3463/3463WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3463/3463WCUADRADO.jpg"
+        },
+        {
+            "groupid": "935892",
+            "nombre": "ESPN 6",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3899/3899WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3899/3899WCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Interiores": [
+        {
+            "groupid": "1046254",
+            "nombre": "CANAL DE LA CIUDAD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2332/2332WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2332/2332WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1340682",
+            "nombre": "RTS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3686/3686WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3686/3686WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1122186",
+            "nombre": "BRAVO TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/7154/7154WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/7154/7154WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1106600",
+            "nombre": "BRAVO TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/7154/7154WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/7154/7154WCUADRADO.jpg"
+        },
+        {
+            "groupid": "784575",
+            "nombre": "NET TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791036",
+            "nombre": "NET TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1326246",
+            "nombre": "CANAL 8 SAN JUAN_duplicado",
+            "logo": "https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/CANAL8SANJUANDUPLICADO/EXPORTACION_WEB/SS/CANAL8SANJUANDUPLICADOWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn5.clarovideo.net/CVPERU/PELICULAS/CANAL8SANJUANDUPLICADO/EXPORTACION_WEB/SS/CANAL8SANJUANDUPLICADOWCUADRADO.jpg"
+        },
+        {
+            "groupid": "980568",
+            "nombre": "AMÉRICA TV INTERIOR",
+            "logo": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/4/4WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/EPG/REPORTTV/LOGOS/4/4WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785421",
+            "nombre": "AMERICA TV",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/175/175WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/175/175WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791053",
+            "nombre": "AMERICA TV",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/175/175WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/175/175WCUADRADO.jpg"
+        },
+        {
+            "groupid": "911840",
+            "nombre": "AMÉRICA MENDOZA",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/833/833WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/833/833WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1324018",
+            "nombre": "CANAL 8 SAN JUAN",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1252/1252WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1252/1252WCUADRADO.jpg"
+        },
+        {
+            "groupid": "897993",
+            "nombre": "CANAL 5 DE ROSARIO",
+            "logo": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/8/8WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/EPG/REPORTTV/LOGOS/8/8WCUADRADO.jpg"
+        },
+        {
+            "groupid": "908970",
+            "nombre": "CANAL 5 DE ROSARIO",
+            "logo": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/8/8WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/EPG/REPORTTV/LOGOS/8/8WCUADRADO.jpg"
+        },
+        {
+            "groupid": "810683",
+            "nombre": "CANAL 8 DE CÓRDOBA",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/52/52WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/52/52WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888140",
+            "nombre": "CANAL 8 DE CÓRDOBA",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/52/52WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/52/52WCUADRADO.jpg"
+        },
+        {
+            "groupid": "784643",
+            "nombre": "TUCUMÁN 8",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/68/68WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/68/68WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888177",
+            "nombre": "TUCUMÁN 8",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/68/68WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/68/68WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888113",
+            "nombre": "CANAL 9 MENDOZA",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/69/69WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/69/69WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888868",
+            "nombre": "CANAL 9 MENDOZA",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/69/69WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/69/69WCUADRADO.jpg"
+        },
+        {
+            "groupid": "774021",
+            "nombre": "CANAL 11 SALTA",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/70/70WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/70/70WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785265",
+            "nombre": "CANAL 11 SALTA",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/70/70WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/70/70WCUADRADO.jpg"
+        },
+        {
+            "groupid": "783831",
+            "nombre": "TV PÚBLICA ARGENTINA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1569/1569WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1569/1569WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764184",
+            "nombre": "TV PÚBLICA ARGENTINA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1569/1569WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1569/1569WCUADRADO.jpg"
+        },
+        {
+            "groupid": "928681",
+            "nombre": "CANAL 9",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/96/96WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/96/96WCUADRADO.jpg"
+        },
+        {
+            "groupid": "980569",
+            "nombre": "CANAL 9 INTERIOR",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1612/1612WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1612/1612WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1135032",
+            "nombre": "CANAL 9",
+            "logo": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/CANAL9/EXPORTACION_WEB/SS/CANAL9WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn3.clarovideo.net/CVPERU/PELICULAS/CANAL9/EXPORTACION_WEB/SS/CANAL9WCUADRADO.jpg"
+        },
+        {
+            "groupid": "931522",
+            "nombre": "CANAL 12 CÓRDOBA",
+            "logo": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/2/2WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/EPG/REPORTTV/LOGOS/2/2WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1146517",
+            "nombre": "CANAL 12 CÓRDOBA",
+            "logo": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/2/2WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/EPG/REPORTTV/LOGOS/2/2WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1161536",
+            "nombre": "CANAL 13 : BUENOS AIRES",
+            "logo": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/6/6WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/EPG/REPORTTV/LOGOS/6/6WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1147213",
+            "nombre": "CANAL 10 MDQ",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/55/55WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/55/55WCUADRADO.jpg"
+        },
+        {
+            "groupid": "967345",
+            "nombre": "CANAL 10 MDQ",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/55/55WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/55/55WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937922",
+            "nombre": "CANAL 10 TUCUMÁN",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/231/231WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/231/231WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1146518",
+            "nombre": "CANAL 10 TUCUMÁN",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/231/231WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/231/231WCUADRADO.jpg"
+        },
+        {
+            "groupid": "929732",
+            "nombre": "CANAL 13 INTERIOR",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/290/290WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/290/290WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1147211",
+            "nombre": "CANAL 13 INTERIOR",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/290/290WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/290/290WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1147720",
+            "nombre": "CANAL 3 ROSARIO",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/895/895WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/895/895WCUADRADO.jpg"
+        },
+        {
+            "groupid": "971666",
+            "nombre": "CANAL 3 ROSARIO",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/895/895WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/895/895WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1147212",
+            "nombre": "CANAL 9 RESISTENCIA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2003/2003WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2003/2003WCUADRADO.jpg"
+        },
+        {
+            "groupid": "966927",
+            "nombre": "CANAL 9 RESISTENCIA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2003/2003WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2003/2003WCUADRADO.jpg"
+        },
+        {
+            "groupid": "929696",
+            "nombre": "CANAL 13 : BUENOS AIRES",
+            "logo": "https://clarovideocdn5.clarovideo.net/PELICULAS/CANAL13BUENOSAIRES/EXPORTACION_WEB/SS/CANAL13BUENOSAIRESWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/PELICULAS/CANAL13BUENOSAIRES/EXPORTACION_WEB/SS/CANAL13BUENOSAIRESWCUADRADO.jpg"
+        },
+        {
+            "groupid": "888158",
+            "nombre": "AMÉRICA TUCUMÁN",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5824/5824WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5824/5824WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1131347",
+            "nombre": "CANAL 4 EXTRA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8261/8261WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8261/8261WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1337096",
+            "nombre": "KZO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3078/3078WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3078/3078WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1162250",
+            "nombre": "CIUDAD MAGAZINE",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/26/26WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/26/26WCUADRADO.jpg"
+        },
+        {
+            "groupid": "967346",
+            "nombre": "CIUDAD MAGAZINE",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/26/26WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/26/26WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785267",
+            "nombre": "MULTIVISION HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3260/3260WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3260/3260WCUADRADO.jpg"
+        },
+        {
+            "groupid": "774043",
+            "nombre": "MULTIVISION HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3260/3260WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3260/3260WCUADRADO.jpg"
+        },
+        {
+            "groupid": "796975",
+            "nombre": "10 DE SALTA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4845/4845WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4845/4845WCUADRADO.jpg"
+        },
+        {
+            "groupid": "966923",
+            "nombre": "CANAL 7 CATAMARCA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6283/6283WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6283/6283WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888066",
+            "nombre": "T5 SATELITAL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2283/2283WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2283/2283WCUADRADO.jpg"
+        },
+        {
+            "groupid": "817154",
+            "nombre": "T5 SATELITAL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2283/2283WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2283/2283WCUADRADO.jpg"
+        },
+        {
+            "groupid": "971665",
+            "nombre": "CANAL 7 JUJUY",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2375/2375WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2375/2375WCUADRADO.jpg"
+        },
+        {
+            "groupid": "911838",
+            "nombre": "CANAL 10 CÓRDOBA",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/885/885WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/885/885WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1106598",
+            "nombre": "CANAL 12 MISIONES",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1467/1467WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1467/1467WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1103842",
+            "nombre": "TELEDIARIO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4309/4309WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4309/4309WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1110982",
+            "nombre": "SOMOS UNO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3157/3157WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3157/3157WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1109498",
+            "nombre": "SOMOS UNO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3157/3157WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3157/3157WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1126649",
+            "nombre": "MISIONES CUATRO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1465/1465WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1465/1465WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1129090",
+            "nombre": "CANAL 21 POSADAS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9250/9250WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9250/9250WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1128159",
+            "nombre": "CANAL 5 TUCUMÁN",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3912/3912WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3912/3912WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1129432",
+            "nombre": "CANAL 13 RIO CUARTO",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/71/71WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/71/71WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1158394",
+            "nombre": "CANAL 7 SANTIAGO DEL ESTERO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1365/1365WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1365/1365WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1161681",
+            "nombre": "CANAL 2 POSADAS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1464/1464WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1464/1464WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1163707",
+            "nombre": "CANAL 4 POSADAS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4043/4043WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4043/4043WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1327804",
+            "nombre": "CIUDAD TV CHACO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5235/5235WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5235/5235WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1307761",
+            "nombre": "VIVE TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8309/8309WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8309/8309WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1162249",
+            "nombre": "VOLVER",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/45/45WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/45/45WCUADRADO.jpg"
+        },
+        {
+            "groupid": "991630",
+            "nombre": "VOLVER",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/45/45WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/45/45WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791296",
+            "nombre": "TVE",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/59/59WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/59/59WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1114026",
+            "nombre": "TVE",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/59/59WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/59/59WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762229",
+            "nombre": "TVE",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/59/59WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/59/59WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791283",
+            "nombre": "STAR TVE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3389/3389WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3389/3389WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766259",
+            "nombre": "STAR TVE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3389/3389WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3389/3389WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1114711",
+            "nombre": "STAR TVE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3389/3389WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3389/3389WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766204",
+            "nombre": "FILM AND ARTS HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791320",
+            "nombre": "FILM AND ARTS HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766229",
+            "nombre": "FOODNETWORK HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3450/3450WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3450/3450WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791310",
+            "nombre": "FOODNETWORK HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3450/3450WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3450/3450WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1120153",
+            "nombre": "METRO",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/27/27WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/27/27WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1161538",
+            "nombre": "METRO",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/27/27WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/27/27WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785266",
+            "nombre": "CANAL RURAL",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/11/11WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/11/11WCUADRADO.jpg"
+        },
+        {
+            "groupid": "774042",
+            "nombre": "CANAL RURAL",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/11/11WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/11/11WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1106599",
+            "nombre": "CHACRA TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3840/3840WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3840/3840WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791412",
+            "nombre": "RAI",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/29/29WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/29/29WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762240",
+            "nombre": "RAI",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/29/29WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/29/29WCUADRADO.jpg"
+        },
+        {
+            "groupid": "909392",
+            "nombre": "ARGENTINISIMA SATELITAL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6185/6185WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6185/6185WCUADRADO.jpg"
+        },
+        {
+            "groupid": "909360",
+            "nombre": "ARGENTINISIMA SATELITAL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6185/6185WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6185/6185WCUADRADO.jpg"
+        },
+        {
+            "groupid": "933979",
+            "nombre": "NETFLIX",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9733/9733WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9733/9733WCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Interiores": [
+        {
+            "groupid": "1051954",
+            "nombre": "CANAL CLARO HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1051143",
+            "nombre": "PARAGUAY TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1961/1961WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1961/1961WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1050348",
+            "nombre": "TELEFUTURO",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/415/415WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/415/415WCUADRADO.jpg"
+        },
+        {
+            "groupid": "935873",
+            "nombre": "UNICANAL",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/742/742WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/742/742WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952435",
+            "nombre": "SNT",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/480/480WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/480/480WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953230",
+            "nombre": "NPY",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3682/3682WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3682/3682WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1051955",
+            "nombre": "TV CÁMARA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3670/3670WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3670/3670WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950840",
+            "nombre": "SUR TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2637/2637WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2637/2637WCUADRADO.jpg"
+        },
+        {
+            "groupid": "935874",
+            "nombre": "ABC TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4020/4020WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4020/4020WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950841",
+            "nombre": "LA TELE PY",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/824/824WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/824/824WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937435",
+            "nombre": "C9N",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2638/2638WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2638/2638WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953231",
+            "nombre": "TRECE PY",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/488/488WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/488/488WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950842",
+            "nombre": "PARAVISIÓN",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/481/481WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/481/481WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950843",
+            "nombre": "VENUS MEDIA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3436/3436WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3436/3436WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953232",
+            "nombre": "GEN HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4839/4839WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4839/4839WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950847",
+            "nombre": "AMERICA PARAGUAY",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6634/6634WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6634/6634WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1349109",
+            "nombre": "Ñanduti",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6142/6142WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6142/6142WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1337188",
+            "nombre": "CANAL A24",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6635/6635WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6635/6635WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1330743",
+            "nombre": "E40",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5316/5316WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5316/5316WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1130594",
+            "nombre": "HEI",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2588/2588WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2588/2588WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1130593",
+            "nombre": "POPU TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9299/9299WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9299/9299WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1130595",
+            "nombre": "UCL LATINOAMERICANO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541WCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Novelas": [
+        {
+            "groupid": "762212",
+            "nombre": "TELEMUNDO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791348",
+            "nombre": "RCN TELENOVELAS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1060/1060WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1060/1060WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762320",
+            "nombre": "RCN TELENOVELAS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1060/1060WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1060/1060WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791322",
+            "nombre": "AZMUNDO HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/PELICULAS/AZMUNDOHD/EXPORTACION_WEB/SS/AZMUNDOHDWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/PELICULAS/AZMUNDOHD/EXPORTACION_WEB/SS/AZMUNDOHDWCUADRADO.jpg"
+        },
+        {
+            "groupid": "791290",
+            "nombre": "PASIONES HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2217/2217WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2217/2217WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762286",
+            "nombre": "PASIONES HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2217/2217WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2217/2217WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762269",
+            "nombre": "TL NOVELAS",
+            "logo": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELASWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn9.clarovideo.net/CVPERU/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELASWCUADRADO.jpg"
+        },
+        {
+            "groupid": "791305",
+            "nombre": "TL NOVELAS",
+            "logo": "https://clarovideocdn7.clarovideo.net/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELASWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELASWCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Novelas": [
+        {
+            "groupid": "950892",
+            "nombre": "CANAL DE LAS ESTRELLAS HD",
+            "logo": "https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/9/9WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn6.clarovideo.net/EPG/REPORTTV/LOGOS/9/9WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950897",
+            "nombre": "PASIONES HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2217/2217WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2217/2217WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937441",
+            "nombre": "RCN TELENOVELAS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1060/1060WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1060/1060WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952480",
+            "nombre": "TELEMUNDO HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1130825",
+            "nombre": "UNIVISIÓN HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5366/5366WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5366/5366WCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Entretenimiento": [
+        {
+            "groupid": "1386612",
+            "nombre": "MILENIUM",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9797/9797WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9797/9797WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791268",
+            "nombre": "CINE LATINO",
+            "logo": "https://clarovideocdn9.clarovideo.net/PELICULAS/CINELATINO/EXPORTACION_WEB/SS/CINELATINOWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn4.clarovideo.net/PELICULAS/CINELATINO/EXPORTACION_WEB/SS/CINELATINOWCUADRADO.jpg"
+        },
+        {
+            "groupid": "762300",
+            "nombre": "CINEMA DINAMITA",
+            "logo": "https://clarovideocdn7.clarovideo.net/PELICULAS/CINEMADINAMITA/EXPORTACION_WEB/SS/CINEMADINAMITAWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/PELICULAS/CINEMADINAMITA/EXPORTACION_WEB/SS/CINEMADINAMITAWCUADRADO.jpg"
+        },
+        {
+            "groupid": "762234",
+            "nombre": "CLARO CINEMA HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9249/9249WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9249/9249WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791269",
+            "nombre": "CLARO CINEMA HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9249/9249WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9249/9249WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791291",
+            "nombre": "STARCHANNEL",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/879/879WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/879/879WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762301",
+            "nombre": "STAR CHANNEL",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/879/879WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/879/879WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762236",
+            "nombre": "FX HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2040/2040WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2040/2040WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791331",
+            "nombre": "FX HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2040/2040WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2040/2040WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1151743",
+            "nombre": "SONY MOVIES HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/7167/7167WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/7167/7167WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762252",
+            "nombre": "CINECANAL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791240",
+            "nombre": "TCM",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/328/328WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/328/328WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762274",
+            "nombre": "TCM",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/328/328WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/328/328WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762211",
+            "nombre": "SPACE HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4535/4535WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4535/4535WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791333",
+            "nombre": "SPACE HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4535/4535WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4535/4535WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762204",
+            "nombre": "AE MUNDO HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3826/3826WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3826/3826WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791293",
+            "nombre": "AXN HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1862/1862WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1862/1862WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762275",
+            "nombre": "AXN HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1862/1862WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1862/1862WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762280",
+            "nombre": "SONY CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1579/1579WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1579/1579WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791336",
+            "nombre": "SONY CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1579/1579WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1579/1579WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762246",
+            "nombre": "WARNER CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766242",
+            "nombre": "ATRES SERIES HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3988/3988WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3988/3988WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791301",
+            "nombre": "ATRES SERIES HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3988/3988WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3988/3988WCUADRADO.jpg"
+        },
+        {
+            "groupid": "911196",
+            "nombre": "A3CINE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3627/3627WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3627/3627WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791303",
+            "nombre": "AMC HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762338",
+            "nombre": "AMC HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1339634",
+            "nombre": "AMC Series",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3390/3390WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3390/3390WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791319",
+            "nombre": "EUROPA EUROPA HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3478/3478WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3478/3478WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766203",
+            "nombre": "EUROPA EUROPA HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3478/3478WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3478/3478WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791289",
+            "nombre": "MULTIPREMIER",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1605/1605WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1605/1605WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762283",
+            "nombre": "MULTIPREMIER",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1605/1605WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1605/1605WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1135033",
+            "nombre": "CINEAR",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1605/1605WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1605/1605WCUADRADO.jpg"
+        },
+        {
+            "groupid": "932138",
+            "nombre": "CINEAR",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1605/1605WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1605/1605WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791307",
+            "nombre": "El GOURMET CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3244/3244WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3244/3244WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762255",
+            "nombre": "El GOURMET CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3244/3244WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3244/3244WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1288280",
+            "nombre": "CLARO EVENTOS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9253/9253WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9253/9253WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1128487",
+            "nombre": "CLARO EVENTOS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9253/9253WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9253/9253WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762273",
+            "nombre": "CONCERT CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1351/1351WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1351/1351WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791438",
+            "nombre": "CONCERT CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1351/1351WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1351/1351WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1161537",
+            "nombre": "QUIERO MÚSICA",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/779/779WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/779/779WCUADRADO.jpg"
+        },
+        {
+            "groupid": "972224",
+            "nombre": "QUIERO MÚSICA",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/779/779WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/779/779WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764185",
+            "nombre": "CANAL DE LA MÚSICA",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/230/230WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/230/230WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785300",
+            "nombre": "CANAL DE LA MÚSICA",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/230/230WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/230/230WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762194",
+            "nombre": "HTV",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/115/115WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/115/115WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791383",
+            "nombre": "HTV",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/115/115WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/115/115WCUADRADO.jpg"
+        },
+        {
+            "groupid": "933961",
+            "nombre": "PRIME VIDEO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9732/9732WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9732/9732WCUADRADO.jpg"
+        },
+        {
+            "groupid": "911899",
+            "nombre": "AXN HD",
+            "logo": "https://clarovideocdn9.clarovideo.net/PELICULAS/AXNHD/EXPORTACION_WEB/SS/AXNHDWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn4.clarovideo.net/PELICULAS/AXNHD/EXPORTACION_WEB/SS/AXNHDWCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Infantil": [
+        {
+            "groupid": "762226",
+            "nombre": "DISCOVERY KIDS CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3531/3531WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3531/3531WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791235",
+            "nombre": "DISCOVERY KIDS CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3531/3531WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3531/3531WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766212",
+            "nombre": "DISNEY CHANNEL",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/136/136WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/136/136WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791236",
+            "nombre": "DISNEY CHANNEL",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/136/136WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/136/136WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791260",
+            "nombre": "DISNEY JUNIOR",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/756/756WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/756/756WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762195",
+            "nombre": "DISNEY JUNIOR",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/756/756WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/756/756WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791264",
+            "nombre": "NICKTOONS",
+            "logo": "https://clarovideocdn7.clarovideo.net/PELICULAS/NICKTOONS/EXPORTACION_WEB/SS/NICKTOONSWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/PELICULAS/NICKTOONS/EXPORTACION_WEB/SS/NICKTOONSWCUADRADO.jpg"
+        },
+        {
+            "groupid": "762241",
+            "nombre": "CARTOON NETWORK HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791220",
+            "nombre": "CARTOON NETWORK HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785209",
+            "nombre": "PAKA PAKA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1492/1492WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1492/1492WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764150",
+            "nombre": "PAKA PAKA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1492/1492WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1492/1492WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762259",
+            "nombre": "CARTOONITO",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/453/453WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/453/453WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791265",
+            "nombre": "CARTOONITO",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/453/453WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/453/453WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1151528",
+            "nombre": "PLIM PLIM",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8218/8218WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8218/8218WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1151408",
+            "nombre": "PLIM PLIM",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8218/8218WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8218/8218WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762278",
+            "nombre": "TOONCAST",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/880/880WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/880/880WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791266",
+            "nombre": "TOONCAST",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/880/880WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/880/880WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762358",
+            "nombre": "BABY TV",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/695/695WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/695/695WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791267",
+            "nombre": "BABY TV",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/695/695WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/695/695WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1290136",
+            "nombre": "EDYE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9183/9183WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9183/9183WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1113229",
+            "nombre": "CLAN",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4312/4312WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4312/4312WCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Infantil": [
+        {
+            "groupid": "952436",
+            "nombre": "DISCOVERY KIDS CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3531/3531WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3531/3531WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952437",
+            "nombre": "DISNEY JUNIOR",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/756/756WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/756/756WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937438",
+            "nombre": "CARTOON NETWORK HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937439",
+            "nombre": "DISNEY HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4367/4367WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4367/4367WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1154105",
+            "nombre": "PLIM PLIM",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8010/8010WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8010/8010WCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Adultos": [
+        {
+            "groupid": "791402",
+            "nombre": "BRAZZERS",
+            "logo": "https://clarovideocdn5.clarovideo.net/PELICULAS/BRAZZERS/EXPORTACION_WEB/SS/BRAZZERSWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/PELICULAS/BRAZZERS/EXPORTACION_WEB/SS/BRAZZERSWCUADRADO.jpg"
+        },
+        {
+            "groupid": "766261",
+            "nombre": "PENTHOUSE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3291/3291WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3291/3291WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791403",
+            "nombre": "PENTHOUSE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3291/3291WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3291/3291WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766262",
+            "nombre": "PLAYBOY HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3803/3803WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3803/3803WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791389",
+            "nombre": "PLAYBOY HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3803/3803WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3803/3803WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766231",
+            "nombre": "SEXTREME",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3293/3293WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3293/3293WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791425",
+            "nombre": "SEXTREME",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3293/3293WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3293/3293WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766244",
+            "nombre": "VENUS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3294/3294WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3294/3294WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791471",
+            "nombre": "VENUS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3294/3294WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3294/3294WCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Adultos": [
+        {
+            "groupid": "952482",
+            "nombre": "VENUS",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3294/3294WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3294/3294WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953277",
+            "nombre": "PLAYBOY HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3803/3803WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3803/3803WCUADRADO.jpg"
+        },
+        {
+            "groupid": "935929",
+            "nombre": "PENTHOUSE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3291/3291WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3291/3291WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950899",
+            "nombre": "SEXTREME",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3293/3293WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3293/3293WCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Religion": [
+        {
+            "groupid": "783832",
+            "nombre": "TELEFÉ",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/35/35WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/35/35WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764168",
+            "nombre": "TELEFÉ",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/35/35WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/35/35WCUADRADO.jpg"
+        },
+        {
+            "groupid": "911862",
+            "nombre": "TELEFÉ MDQ",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/53/53WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/53/53WCUADRADO.jpg"
+        },
+        {
+            "groupid": "898011",
+            "nombre": "CANAL 13 DE SANTA FE",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/228/228WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/228/228WCUADRADO.jpg"
+        },
+        {
+            "groupid": "909092",
+            "nombre": "CANAL 13 DE SANTA FE",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/228/228WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/228/228WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1107374",
+            "nombre": "TELEFÉ INTERIOR",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1128952",
+            "nombre": "NORTE GRANDE FEDERAL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8244/8244WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8244/8244WCUADRADO.jpg"
+        },
+        {
+            "groupid": "810665",
+            "nombre": "CINECANAL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445WCUADRADO.jpg"
+        },
+        {
+            "groupid": "810678",
+            "nombre": "AE MUNDO HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3826/3826WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3826/3826WCUADRADO.jpg"
+        },
+        {
+            "groupid": "810650",
+            "nombre": "AXN HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1862/1862WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1862/1862WCUADRADO.jpg"
+        },
+        {
+            "groupid": "810624",
+            "nombre": "SONY CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1579/1579WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1579/1579WCUADRADO.jpg"
+        },
+        {
+            "groupid": "810663",
+            "nombre": "WARNER CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787WCUADRADO.jpg"
+        },
+        {
+            "groupid": "810625",
+            "nombre": "TELEMUNDO",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762247",
+            "nombre": "LIFETIME NEW",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2788/2788WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2788/2788WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791325",
+            "nombre": "LIFETIME NEW",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2788/2788WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2788/2788WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791380",
+            "nombre": "MARÍA VISIÓN",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/283/283WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/283/283WCUADRADO.jpg"
+        },
+        {
+            "groupid": "766205",
+            "nombre": "MARÍA VISIÓN",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/283/283WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/283/283WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791415",
+            "nombre": "ENLACE",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/413/413WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/413/413WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762321",
+            "nombre": "ENLACE",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/413/413WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/413/413WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791365",
+            "nombre": "EL SEMBRADOR",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1155/1155WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1155/1155WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762227",
+            "nombre": "EL SEMBRADOR",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1155/1155WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1155/1155WCUADRADO.jpg"
+        },
+        {
+            "groupid": "888194",
+            "nombre": "ORBE 21",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8724/8724WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8724/8724WCUADRADO.jpg"
+        },
+        {
+            "groupid": "785210",
+            "nombre": "ORBE 21",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8724/8724WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8724/8724WCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Cultura": [
+        {
+            "groupid": "785299",
+            "nombre": "ENCUENTRO",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/477/477WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/477/477WCUADRADO.jpg"
+        },
+        {
+            "groupid": "764113",
+            "nombre": "ENCUENTRO",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/477/477WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/477/477WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762225",
+            "nombre": "DISCOVERY TURBO",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/492/492WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/492/492WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791209",
+            "nombre": "DISCOVERY TURBO",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/492/492WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/492/492WCUADRADO.jpg"
+        },
+        {
+            "groupid": "763476",
+            "nombre": "DISCOVERYIDHD",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/111/111WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/111/111WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791270",
+            "nombre": "DISCOVERY ID HD",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/111/111WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/111/111WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791246",
+            "nombre": "DISCOVERY HOME AND HEALTH CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2218/2218WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2218/2218WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762267",
+            "nombre": "DISCOVERY HOME AND HEALTH CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2218/2218WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2218/2218WCUADRADO.jpg"
+        },
+        {
+            "groupid": "763347",
+            "nombre": "TLC CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4909/4909WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4909/4909WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791247",
+            "nombre": "TLC CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4909/4909WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4909/4909WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791391",
+            "nombre": "ANIMAL PLANET HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4605/4605WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4605/4605WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762309",
+            "nombre": "ANIMAL PLANET HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4605/4605WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4605/4605WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762266",
+            "nombre": "DISCOVERY CHANNEL NEW HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3066/3066WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3066/3066WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791371",
+            "nombre": "DISCOVERY CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3066/3066WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3066/3066WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762265",
+            "nombre": "HOME AND GARDEN",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1531/1531WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1531/1531WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762223",
+            "nombre": "DISCOVERY SCIENCE",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/493/493WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/493/493WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791353",
+            "nombre": "DISCOVERY SCIENCE",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/493/493WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/493/493WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762254",
+            "nombre": "DISCOVERY WORLD HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4516/4516WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4516/4516WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791250",
+            "nombre": "DISCOVERY WORLD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4516/4516WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4516/4516WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762253",
+            "nombre": "DISCOVERY THEATER HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1181/1181WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1181/1181WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791327",
+            "nombre": "DISCOVERY THEATER HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1181/1181WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1181/1181WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791328",
+            "nombre": "HISTORY 2",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2823/2823WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2823/2823WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762263",
+            "nombre": "HISTORY 2",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2823/2823WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2823/2823WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762261",
+            "nombre": "HISTORY CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5201/5201WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5201/5201WCUADRADO.jpg"
+        },
+        {
+            "groupid": "810684",
+            "nombre": "HISTORY CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5201/5201WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5201/5201WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1120152",
+            "nombre": "CANAL A",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/58/58WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/58/58WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1161539",
+            "nombre": "CANAL A",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/58/58WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/58/58WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762207",
+            "nombre": "INTI HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2920/2920WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2920/2920WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791362",
+            "nombre": "INTI HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2920/2920WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2920/2920WCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Pack Universal": [
+        {
+            "groupid": "810711",
+            "nombre": "UNIVERSAL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1508/1508WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1508/1508WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762277",
+            "nombre": "UNIVERSAL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1508/1508WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1508/1508WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762303",
+            "nombre": "STUDIO UNIVERSAL",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/77/77WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/77/77WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791337",
+            "nombre": "STUDIO UNIVERSAL",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/77/77WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/77/77WCUADRADO.jpg"
+        },
+        {
+            "groupid": "810681",
+            "nombre": "STUDIO UNIVERSAL",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/77/77WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/77/77WCUADRADO.jpg"
+        },
+        {
+            "groupid": "810712",
+            "nombre": "E ENTERTAINMENT HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3675/3675WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3675/3675WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762281",
+            "nombre": "E ENTERTAINMENT HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3675/3675WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3675/3675WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1030453",
+            "nombre": "UNIVERSAL PREMIERE HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6981/6981WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6981/6981WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1029681",
+            "nombre": "UNIVERSAL CINEMA HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6979/6979WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6979/6979WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1029682",
+            "nombre": "UNIVERSAL COMEDY HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6978/6978WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6978/6978WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1028915",
+            "nombre": "UNIVERSAL CRIME HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6980/6980WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6980/6980WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1029683",
+            "nombre": "UNIVERSAL REALITY HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6982/6982WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6982/6982WCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Pack Universal": [
+        {
+            "groupid": "1038611",
+            "nombre": "UNIVERSAL PREMIERE HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6981/6981WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6981/6981WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1039286",
+            "nombre": "UNIVERSAL CINEMA HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6979/6979WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6979/6979WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1039288",
+            "nombre": "UNIVERSAL REALITY HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6982/6982WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6982/6982WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1039287",
+            "nombre": "UNIVERSAL COMEDY HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6978/6978WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6978/6978WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1037934",
+            "nombre": "UNIVERSAL CRIME HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6980/6980WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6980/6980WCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Pack HBO": [
+        {
+            "groupid": "762276",
+            "nombre": "CINEMAX HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3142/3142WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3142/3142WCUADRADO.jpg"
+        },
+        {
+            "groupid": "816153",
+            "nombre": "CINEMAX HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3142/3142WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3142/3142WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791400",
+            "nombre": "HBO FAMILY CHANNEL",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/335/335WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/335/335WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791384",
+            "nombre": "HBO HD",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/875/875WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/875/875WCUADRADO.jpg"
+        },
+        {
+            "groupid": "781344",
+            "nombre": "HBO HD",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/875/875WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/875/875WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791445",
+            "nombre": "HBOMUNDI",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/12/12WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/12/12WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791385",
+            "nombre": "HBO PLUS HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2686/2686WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2686/2686WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791401",
+            "nombre": "HBO SIGNATURE HD NEW",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/500/500WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/500/500WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791421",
+            "nombre": "HBO 2 HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2127/2127WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2127/2127WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791386",
+            "nombre": "HBOXTREME",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2688/2688WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2688/2688WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791446",
+            "nombre": "HBOPOP",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1378/1378WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1378/1378WCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Pack HBO": [
+        {
+            "groupid": "1136194",
+            "nombre": "HBO HD",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/875/875WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/875/875WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1136196",
+            "nombre": "HBO PLUS HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2686/2686WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2686/2686WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1134592",
+            "nombre": "HBO 2 HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2127/2127WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2127/2127WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1136201",
+            "nombre": "HBO FAMILY CHANNEL",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/335/335WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/335/335WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1135400",
+            "nombre": "HBO XTREME",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2688/2688WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2688/2688WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1135407",
+            "nombre": "HBO MUNDI",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/12/12WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/12/12WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1134598",
+            "nombre": "HBO POP",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1378/1378WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1378/1378WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1134602",
+            "nombre": "HBO SIGNATURE HD NEW",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/500/500WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/500/500WCUADRADO.jpg"
+        }
+    ],
+    "🇦🇷 Otros": [
+        {
+            "groupid": "1337201",
+            "nombre": "Mix TV",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9072/9072WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9072/9072WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1129497",
+            "nombre": "CLAROTV 4K",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9254/9254WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9254/9254WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791363",
+            "nombre": "UNIVISIÓN",
+            "logo": "https://clarovideocdn5.clarovideo.net/PELICULAS/UNIVISIN/EXPORTACION_WEB/SS/UNIVISINWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVISIN/EXPORTACION_WEB/SS/UNIVISINWCUADRADO.jpg"
+        },
+        {
+            "groupid": "766243",
+            "nombre": "UNIVISIÓN",
+            "logo": "https://clarovideocdn5.clarovideo.net/PELICULAS/UNIVISIN/EXPORTACION_WEB/SS/UNIVISINWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/PELICULAS/UNIVISIN/EXPORTACION_WEB/SS/UNIVISINWCUADRADO.jpg"
+        },
+        {
+            "groupid": "762304",
+            "nombre": "ANTENA3 ",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/61/61WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/61/61WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791306",
+            "nombre": "CANAL CLARO HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762306",
+            "nombre": "CANAL CLARO HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762222",
+            "nombre": "HOLA TV HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2670/2670WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2670/2670WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791352",
+            "nombre": "HOLA TV HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2670/2670WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2670/2670WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791372",
+            "nombre": "HOME AND GARDEN",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1531/1531WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1531/1531WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791354",
+            "nombre": "NATIONAL GEOGRAPHIC HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2710/2710WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2710/2710WCUADRADO.jpg"
+        },
+        {
+            "groupid": "762264",
+            "nombre": "NATIONAL GEOGRAPHIC HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2710/2710WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2710/2710WCUADRADO.jpg"
+        },
+        {
+            "groupid": "908904",
+            "nombre": "UCL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541WCUADRADO.jpg"
+        },
+        {
+            "groupid": "908955",
+            "nombre": "UCL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541WCUADRADO.jpg"
+        },
+        {
+            "groupid": "791357",
+            "nombre": "VE PLUS TV",
+            "logo": "https://clarovideocdn5.clarovideo.net/PELICULAS/VEPLUSTV/EXPORTACION_WEB/SS/VEPLUSTVWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/PELICULAS/VEPLUSTV/EXPORTACION_WEB/SS/VEPLUSTVWCUADRADO.jpg"
+        },
+        {
+            "groupid": "816113",
+            "nombre": "DiaTV",
+            "logo": "https://clarovideocdn9.clarovideo.net/PELICULAS/DIATV/EXPORTACION_WEB/SS/DIATVWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn4.clarovideo.net/PELICULAS/DIATV/EXPORTACION_WEB/SS/DIATVWCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Otros": [
+        {
+            "groupid": "952455",
+            "nombre": "FX HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2043/2043WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2043/2043WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1138182",
+            "nombre": "AE MUNDO HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3826/3826WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3826/3826WCUADRADO.jpg"
+        },
+        {
+            "groupid": "935895",
+            "nombre": "AE MUNDO HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3826/3826WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3826/3826WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950844",
+            "nombre": "CLARO CINEMA",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9249/9249WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9249/9249WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937440",
+            "nombre": "TCM",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/328/328WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/328/328WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1255962",
+            "nombre": "TN",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/36/36WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/36/36WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937444",
+            "nombre": "FRANCE 24 HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4229/4229WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4229/4229WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1257371",
+            "nombre": "CANAL 13 INTERNACIONAL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1154/1154WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1154/1154WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1392373",
+            "nombre": "RUSSIAN TODAY",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1502/1502WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1502/1502WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1138912",
+            "nombre": "TELEFE INTERNACIONAL",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/149/149WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/149/149WCUADRADO.jpg"
+        },
+        {
+            "groupid": "935878",
+            "nombre": "TVE",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/59/59WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/59/59WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1405174",
+            "nombre": "LIFETIME",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2788/2788WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2788/2788WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950845",
+            "nombre": "E ENTERTAINMENT HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3675/3675WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3675/3675WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953237",
+            "nombre": "CONCERT CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1351/1351WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1351/1351WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953239",
+            "nombre": "MARÍA VISIÓN",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/283/283WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/283/283WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950846",
+            "nombre": "EL SEMBRADOR",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1155/1155WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1155/1155WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953240",
+            "nombre": "ENLACE",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/413/413WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/413/413WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1392463",
+            "nombre": "TLC",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4909/4909WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4909/4909WCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Documentales": [
+        {
+            "groupid": "937477",
+            "nombre": "DHE HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2352/2352WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2352/2352WCUADRADO.jpg"
+        },
+        {
+            "groupid": "935896",
+            "nombre": "DISCOVERY CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3066/3066WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3066/3066WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952456",
+            "nombre": "NATIONAL GEOGRAPHIC HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2713/2713WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2713/2713WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950861",
+            "nombre": "ANIMAL PLANET HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4605/4605WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4605/4605WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953236",
+            "nombre": "DISCOVERY TURBO HD",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/492/492WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/492/492WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952459",
+            "nombre": "DISCOVERY ID HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4902/4902WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4902/4902WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937459",
+            "nombre": "DISCOVERY HOME AND HEALTH CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2218/2218WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2218/2218WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937458",
+            "nombre": "DISCOVERY THEATER HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1181/1181WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1181/1181WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1137363",
+            "nombre": "HISTORY CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5201/5201WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5201/5201WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950862",
+            "nombre": "HISTORY CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5201/5201WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5201/5201WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1403573",
+            "nombre": "HISTORY 2",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2823/2823WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2823/2823WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937478",
+            "nombre": "El GOURMET CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3244/3244WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3244/3244WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937471",
+            "nombre": "SUNCHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2257/2257WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2257/2257WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952460",
+            "nombre": "DISCOVERY WORLD HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1389/1389WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1389/1389WCUADRADO.jpg"
+        },
+        {
+            "groupid": "935928",
+            "nombre": "HOLA TV HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2670/2670WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2670/2670WCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 España": [
+        {
+            "groupid": "1311888",
+            "nombre": "ANTENA3",
+            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/61/61WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/61/61WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1289375",
+            "nombre": "EDYE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/9183/9183WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9183/9183WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1312547",
+            "nombre": "A3CINE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3627/3627WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3627/3627WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1130375",
+            "nombre": "STAR TVE",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3389/3389WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3389/3389WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1129088",
+            "nombre": "CLAN HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4312/4312WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4312/4312WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1130376",
+            "nombre": "24H",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/281/281WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/281/281WCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Películas": [
+        {
+            "groupid": "952451",
+            "nombre": "CINECANAL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1138176",
+            "nombre": "CINEMAX HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3142/3142WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3142/3142WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953235",
+            "nombre": "CINEMAX HD",
+            "logo": "https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CINEMAXHD/EXPORTACION_WEB/SS/CINEMAXHDWHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn9.clarovideo.net/CVPERU/PELICULAS/CINEMAXHD/EXPORTACION_WEB/SS/CINEMAXHDWCUADRADO.jpg"
+        },
+        {
+            "groupid": "952478",
+            "nombre": "UNIVERSAL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1514/1514WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1514/1514WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952481",
+            "nombre": "GOLDEN",
+            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/401/401WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/401/401WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952484",
+            "nombre": "GOLDEN PREMIER 2",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2378/2378WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2378/2378WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950898",
+            "nombre": "GOLDEN PREMIER HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2527/2527WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2527/2527WCUADRADO.jpg"
+        },
+        {
+            "groupid": "937457",
+            "nombre": "TNT HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4054/4054WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4054/4054WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950859",
+            "nombre": "WARNER CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1138913",
+            "nombre": "WARNER CHANNEL HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952454",
+            "nombre": "STARCHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1533/1533WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1533/1533WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1038614",
+            "nombre": "STUDIO UNIVERSAL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5189/5189WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5189/5189WCUADRADO.jpg"
+        },
+        {
+            "groupid": "953276",
+            "nombre": "AMC HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250WCUADRADO.jpg"
+        },
+        {
+            "groupid": "952452",
+            "nombre": "SPACE HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/4535/4535WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4535/4535WCUADRADO.jpg"
+        },
+        {
+            "groupid": "1138181",
+            "nombre": "SONY CHANNEL",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1579/1579WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1579/1579WCUADRADO.jpg"
+        }
+    ],
+    "🇵🇾 Series": [
+        {
+            "groupid": "1137364",
+            "nombre": "AXN HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1862/1862WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1862/1862WCUADRADO.jpg"
+        },
+        {
+            "groupid": "935893",
+            "nombre": "TNT SERIES HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3421/3421WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3421/3421WCUADRADO.jpg"
+        },
+        {
+            "groupid": "950896",
+            "nombre": "ATRES SERIES HD",
+            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3988/3988WHORIZONTAL.jpg?size=675x380",
+            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3988/3988WCUADRADO.jpg"
+        }
+    ]
+}
