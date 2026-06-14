@@ -1,71 +1,8 @@
 {
-  "version": 1,
-  "updated_utc": "2026-06-14",
-  "description": "Endpoints de Claro Video. Editar aqui cuando cambie una ruta; la app Kotlin lo lee y no necesita actualizarse.",
-
-  "hosts": {
-    "api": "https://mfwkweb-api.clarovideo.net",
-    "license": "https://widevine-claroaup-vod.clarovideo.net",
-    "web": "https://www.clarovideo.com"
-  },
-
-  "endpoints": {
-    "login": {
-      "method": "POST",
-      "url": "https://mfwkweb-api.clarovideo.net/services/user/v2/ott/login",
-      "desc": "Login email+password (multipart username/password). Devuelve session_stringvalue=HKS, session_userhash, user_token, user_id."
-    },
-    "isloggedin": {
-      "method": "GET",
-      "url": "https://mfwkweb-api.clarovideo.net/services/user/v4/ott/isloggedin",
-      "desc": "Refresca la sesion con el HKS. Devuelve user_token y user_hash frescos."
-    },
-    "linealchannels": {
-      "method": "GET",
-      "url": "https://mfwkweb-api.clarovideo.net/services/payway/v1/linealchannels",
-      "desc": "Devuelve los paqs con payway_token (auth header Authorization: Bearer <user_token>). Elegir el paq cuyo pgs.groups[] contenga el group_id."
-    },
-    "getmedia": {
-      "method": "POST",
-      "url": "https://mfwkweb-api.clarovideo.net/services/player/v1/getmedia",
-      "desc": "Resuelve el canal desde group_id. Body vacio. Devuelve response.media.video_url (MPD) y response.media.challenge (string JSON con token de licencia)."
-    },
-    "getcertificate": {
-      "method": "GET",
-      "url": "https://widevine-claroaup-vod.clarovideo.net/v2/licenser/getcertificate",
-      "desc": "Service certificate de Widevine (privacy mode). Respuesta binaria. Opcional."
-    },
-    "getlicense": {
-      "method": "POST",
-      "url": "https://widevine-claroaup-vod.clarovideo.net/v2/licenser/getlicense",
-      "desc": "Licencia Widevine. Query: ?user_id=<user_id>. Body JSON {token, device_id, widevineBody}. Respuesta binaria (bytes de licencia)."
-    }
-  },
-
-  "params": {
-    "authpn": "webclient",
-    "authpt": "tfg1h3j4k6fd7",
-    "device_category": "web",
-    "device_id_generic": "web",
-    "device_manufacturer": "generic",
-    "device_model": "web",
-    "device_type": "web",
-    "device_so": "Chrome",
-    "format": "json",
-    "stream_type": "dashwv"
-  },
-
-  "headers": {
-    "Origin": "https://www.clarovideo.com",
-    "Referer": "https://www.clarovideo.com/",
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-  },
-
-  "notes": {
-    "session_source": "user_token, HKS, user_hash, user_id, payway_token salen de config.json.enc (generado por claro_payway.php).",
-    "device_id_fixed": "Para getmedia/getlicense usar el device_id fijo del config (32 hex), NO el 'web'.",
-    "hks_format": "HKS va entre parentesis en getmedia: (webXXXX).",
-    "ip_lock": "El MPD de getmedia trae ip=&hmac=; el stream queda atado a la IP que lo pide.",
-    "license_flow": "ExoPlayer/Media3 genera keyRequest.data -> Base64 -> widevineBody en getlicense."
-  }
+  "login": "https://mfwkweb-api.clarovideo.net/services/user/v2/ott/login",
+  "isloggedin": "https://mfwkweb-api.clarovideo.net/services/user/v4/ott/isloggedin",
+  "linealchannels": "https://mfwkweb-api.clarovideo.net/services/payway/v1/linealchannels",
+  "getmedia": "https://mfwkweb-api.clarovideo.net/services/player/v1/getmedia",
+  "getcertificate": "https://widevine-claroaup-vod.clarovideo.net/v2/licenser/getcertificate",
+  "getlicense": "https://widevine-claroaup-vod.clarovideo.net/v2/licenser/getlicense"
 }
