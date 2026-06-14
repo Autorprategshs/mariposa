@@ -619,56 +619,6 @@
             "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6980/6980WCUADRADO.jpg"
         }
     ],
-    "🇵🇾 Pack HBO": [
-        {
-            "groupid": "1136194",
-            "nombre": "HBO HD",
-            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/875/875WHORIZONTAL.jpg?size=675x380",
-            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/875/875WCUADRADO.jpg"
-        },
-        {
-            "groupid": "1136196",
-            "nombre": "HBO PLUS HD",
-            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2686/2686WHORIZONTAL.jpg?size=675x380",
-            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2686/2686WCUADRADO.jpg"
-        },
-        {
-            "groupid": "1134592",
-            "nombre": "HBO 2 HD",
-            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2127/2127WHORIZONTAL.jpg?size=675x380",
-            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2127/2127WCUADRADO.jpg"
-        },
-        {
-            "groupid": "1136201",
-            "nombre": "HBO FAMILY CHANNEL",
-            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/335/335WHORIZONTAL.jpg?size=675x380",
-            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/335/335WCUADRADO.jpg"
-        },
-        {
-            "groupid": "1135400",
-            "nombre": "HBO XTREME",
-            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/2688/2688WHORIZONTAL.jpg?size=675x380",
-            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2688/2688WCUADRADO.jpg"
-        },
-        {
-            "groupid": "1135407",
-            "nombre": "HBO MUNDI",
-            "logo": "https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/12/12WHORIZONTAL.jpg?size=675x380",
-            "image_base_square": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/12/12WCUADRADO.jpg"
-        },
-        {
-            "groupid": "1134598",
-            "nombre": "HBO POP",
-            "logo": "https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1378/1378WHORIZONTAL.jpg?size=675x380",
-            "image_base_square": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1378/1378WCUADRADO.jpg"
-        },
-        {
-            "groupid": "1134602",
-            "nombre": "HBO SIGNATURE HD NEW",
-            "logo": "https://clarovideocdn5.clarovideo.net/EPG/REPORTTV/LOGOS/500/500WHORIZONTAL.jpg?size=675x380",
-            "image_base_square": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/500/500WCUADRADO.jpg"
-        }
-    ],
     "🇵🇾 Otros": [
         {
             "groupid": "952455",
