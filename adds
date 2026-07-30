@@ -1,7 +1,45 @@
 {
-    "revision": "2026-07-30-1",
-    "connection": {
-      "enabled": true,
-      "content_view": "LumixTV"
+    "schema": 1,
+    "revision": "2026-07-30-2",
+    "endpoints": {
+      "api_base": "https://api.tigosports.com.py/api/v4",
+      "vecima_base": "https://api.tigosports.com.py/sls/v1",
+      "country": "PY",
+      "live": "content/get-events/{country}/live/games/1/10",
+      "next": "content/get-events/{country}/next/games/1/20",
+      "fallback": "content/get-events/{country}/replay/games/1/10",
+      "detail": "content/get-event/{country}/{cid}/other/game",
+      "vecima": "streaming/{cid}"
+    },
+    "playback": {
+      "type_content": "{eventType}",
+      "index_cam": "0"
+    },
+    "fields": {
+      "content_id": ["contentful_id"],
+      "title": [
+        "contentful_data.fields.name",
+        "contentful_data.fields.title",
+        "contentful_data.fields.eventName",
+        "contentful_data.fields.matchName"
+      ],
+      "home": ["home_team_data.json.fields.name"],
+      "away": ["away_team_data.json.fields.name"],
+      "league": ["league"],
+      "sport": ["sport"],
+      "poster": [
+        "contentful_data.fields.horizontal_thumbnails.file.fields.file.url"
+      ],
+      "dash": [
+        "event.channel_data.json.fields.livestreamingUrl.streamingUrlDash",
+        "event.channel.livestreamingUrl.streamingUrlDash",
+        "data.replayUrlDash",
+        "data.streamingUrl"
+      ]
+    },
+    "filters": {
+      "filler_sports": ["Programación"],
+      "filler_leagues": ["Otros"],
+      "filler_teams": ["", "Eventos Tigo Sports"]
     }
   }
