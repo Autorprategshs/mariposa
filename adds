@@ -1,49 +1,66 @@
 {
-    "schema": 1,
-    "revision": "2026-07-30-2",
-    "endpoints": {
-      "api_base": "https://api.tigosports.com.py/api/v4",
-      "vecima_base": "https://api.tigosports.com.py/sls/v1",
-      "country": "PY",
-      "live": "content/get-events/{country}/live/games/1/10",
-      "next": "content/get-events/{country}/next/games/1/20",
-      "fallback": "content/get-events/{country}/replay/games/1/10",
-      "detail": "content/get-event/{country}/{cid}/other/game",
-      "vecima": "streaming/{cid}"
-    },
-    "playback": {
-      "type_content": "{eventType}",
-      "index_cam": "0"
-    },
-    "fields": {
-      "content_id": ["contentful_id"],
-      "title": [
-        "contentful_data.fields.name",
-        "contentful_data.fields.title",
-        "contentful_data.fields.eventName",
-        "contentful_data.fields.matchName"
-      ],
-      "home": ["home_team_data.json.fields.name"],
-      "away": ["away_team_data.json.fields.name"],
-      "league": ["league"],
-      "sport": ["sport"],
-      "poster": [
-        "contentful_data.fields.horizontal_thumbnails.file.fields.file.url"
-      ],
-      "dash": [
-        "event.channel_data.json.fields.livestreamingUrl.streamingUrlDash",
-        "event.channel.livestreamingUrl.streamingUrlDash",
-        "data.replayUrlDash",
-        "data.streamingUrl"
-      ]
-    },
-    "filters": {
-      "filler_sports": ["Programación"],
-      "filler_leagues": ["Otros"],
-      "filler_teams": ["", "Eventos Tigo Sports"]
-    },
-    {
-   "clear":"1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c",
-   "clear":"49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7"
-}
+  "schema": 1,
+  "revision": "2026-07-30-2",
+  "endpoints": {
+    "api_base": "https://api.tigosports.com.py/api/v4",
+    "vecima_base": "https://api.tigosports.com.py/sls/v1",
+    "country": "PY",
+    "live": "content/get-events/{country}/live/games/1/10",
+    "next": "content/get-events/{country}/next/games/1/20",
+    "fallback": "content/get-events/{country}/replay/games/1/10",
+    "detail": "content/get-event/{country}/{cid}/other/game",
+    "vecima": "streaming/{cid}"
+  },
+  "playback": {
+    "type_content": "{eventType}",
+    "index_cam": "0"
+  },
+  "fields": {
+    "content_id": [
+      "contentful_id"
+    ],
+    "title": [
+      "contentful_data.fields.name",
+      "contentful_data.fields.title",
+      "contentful_data.fields.eventName",
+      "contentful_data.fields.matchName"
+    ],
+    "home": [
+      "home_team_data.json.fields.name"
+    ],
+    "away": [
+      "away_team_data.json.fields.name"
+    ],
+    "league": [
+      "league"
+    ],
+    "sport": [
+      "sport"
+    ],
+    "poster": [
+      "contentful_data.fields.horizontal_thumbnails.file.fields.file.url"
+    ],
+    "dash": [
+      "event.channel_data.json.fields.livestreamingUrl.streamingUrlDash",
+      "event.channel.livestreamingUrl.streamingUrlDash",
+      "data.replayUrlDash",
+      "data.streamingUrl"
+    ]
+  },
+  "filters": {
+    "filler_sports": [
+      "Programación"
+    ],
+    "filler_leagues": [
+      "Otros"
+    ],
+    "filler_teams": [
+      "",
+      "Eventos Tigo Sports"
+    ]
+  },
+  "clearkeys": {
+    "clear1": "1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c",
+    "clear2": "49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7"
   }
+}
