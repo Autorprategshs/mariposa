@@ -1,1 +1,7 @@
-dsad
+{
+    "revision": "2026-07-30-1",
+    "connection": {
+      "enabled": true,
+      "content_view": "LumixTV"
+    }
+  }
