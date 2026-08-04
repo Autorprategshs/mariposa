@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "2026-07-30-2",
+  "revision": "2026-08-04-1",
   "endpoints": {
     "api_base": "https://api.tigosports.com.py/api/v4",
     "vecima_base": "https://api.tigosports.com.py/sls/v1",
@@ -55,8 +55,7 @@
       "Otros"
     ],
     "filler_teams": [
-      "",
-      "Eventos Tigo Sports"
+      ""
     ]
   },
   "clearkeys": {
