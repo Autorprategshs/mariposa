@@ -2,8 +2,8 @@
   "schema": 1,
   "revision": "2026-08-04-1",
   "endpoints": {
-    "api_base": "https://api.tigosports.com.py/api/v4",
-    "vecima_base": "https://api.tigosports.com.py/sls/v1",
+    "api_base": "https://ap.tigosports.com.py/api/v4",
+    "vecima_base": "https://ap.tigosports.com.py/sls/v1",
     "country": "PY",
     "live": "content/get-events/{country}/live/games/1/10",
     "next": "content/get-events/{country}/next/games/1/20",
