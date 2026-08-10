@@ -17,20 +17,7 @@
             "data": "tKLKhUKsU7Edun9l6E5diNLTpCGdR3BnUpVFW8TuLYjO2zVpMGijwv9RW5UmebhjUWodKVtHygwY0BVDseyuYro="
           }
         },
-        {
-          "group_id": {
-            "iv": "/WQu90nZdRe0Gtfm",
-            "tag": "gAiTaRTjPIlBmZzbGiI3Lw==",
-            "data": "DmLk/AZ+"
-          },
-          "name": "TNT SPORTS ARGENTINA",
-          "logo": "https://clarovideocdn4.clarovideo.net/EPG/REPORTTV/LOGOS/3950/3950WCUADRADO.jpg",
-          "key_pair": {
-            "iv": "I667TLid0p1pH+AG",
-            "tag": "579cGtSLdoyzxBaNLijyXg==",
-            "data": "qOEs7bD6Flk+sCHfbNBjGoW5d/GeRnbr3vfnxq2ph3iZ3exfdG5Wdz9x1TQWNcaAMnhpMz6pt4xdR5mPE0V4A64="
-          }
-        },
+        
         {
           "group_id": {
             "iv": "GXk2mYnQTtIZK7zf",
